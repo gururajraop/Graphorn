@@ -1,0 +1,9 @@
+Authors
+Sample_Strategy
+6
+D, 1, 4
+D, 2, 4
+C, 3, 4
+C, 3, 4
+D, 2, 5
+D, 4, 5
