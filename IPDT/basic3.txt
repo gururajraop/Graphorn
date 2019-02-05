@@ -1,0 +1,4 @@
+Authors
+Sample_Strategy
+1
+D, 0, 0
