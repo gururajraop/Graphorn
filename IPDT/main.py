@@ -82,7 +82,7 @@ def play(player1, player2, iter):
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description='Iterated Prisoners Dilemma Tournament')
   parser.add_argument('--player1', '-p1', default='basic1.txt', help='Strategy of Player 1')
-  parser.add_argument('--player2', '-p2', default='basic8.txt', help='Strategy of Player 2')
+  parser.add_argument('--player2', '-p2', default='basic7.txt', help='Strategy of Player 2')
   parser.add_argument('--iter', '-i', type=int, default=1000, help='Number of times the game is played')
 
   args = parser.parse_args()
